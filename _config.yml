@@ -1,1 +1,10 @@
-theme: jekyll-theme-architect
+# basic options
+title: MacsApps
+author: Michael Clark
+email: mikec7592@gmail.com
+description: A collection of ongoing projects
+github_username:  mikec7592
+
+# Build settings
+markdown: kramdown
+theme: minima
