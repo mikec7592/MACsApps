@@ -4,27 +4,27 @@ title: Projects
 ---
 
 A list of my hosted projects as well as
-links to their respective repositories.
+links to their respective repositories.\
 Listed in order from newest to oldest
 
 
-## RamenHntr
+### RamenHntr
 
-Hosted app: [RamenHntr](https://ramen-hntr.herokuapp.com/about/)
+Hosted app: [RamenHntr](https://ramen-hntr.herokuapp.com/about/)\
 Github Repo: [Repository](https://github.com/mikec7592/RamenHntr)
 
-## ResumeBuilder
+### ResumeBuilder
 
-**Group Project**
-Hosted app [ResumeBuilder]( https://resumebuilder-frontend.herokuapp.com/)
+**Group Project**\
+Hosted app [ResumeBuilder]( https://resumebuilder-frontend.herokuapp.com/)\
 Github Repo: [Front-end Repo](https://github.com/mikec7592/resume_builder-frontend)
 
-## AnimeList
+### AnimeList
 
-Hosted app: [AnimeList](https://boiling-basin-25566.herokuapp.com/animeList)
+Hosted app: [AnimeList](https://boiling-basin-25566.herokuapp.com/animeList)\
 Github Repo: [Repository](https://github.com/mikec7592/anime_list)
 
-## Jeopardy 
+### Jeopardy 
 
-Hosted app: [Jeopardy](https://mikec7592.github.io/)
+Hosted app: [Jeopardy](https://mikec7592.github.io/)\
 Github Repo: [Repository](https://github.com/mikec7592/mikec7592.github.io)
