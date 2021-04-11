@@ -16,7 +16,7 @@ Github Repo: [Repository](https://github.com/mikec7592/RamenHntr)
 ### ResumeBuilder
 
 **Group Project**\
-Hosted app [ResumeBuilder]( https://resumebuilder-frontend.herokuapp.com/)\
+Hosted app: [ResumeBuilder]( https://resumebuilder-frontend.herokuapp.com/)\
 Github Repo: [Front-end Repo](https://github.com/mikec7592/resume_builder-frontend)
 
 ### AnimeList
