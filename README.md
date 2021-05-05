@@ -6,6 +6,7 @@ Hey!  Looks like you've reached my portfolio site.
 
 - Click on the 'About' tab in the header above to read a brief description about myself and the aim of this site
 - Or click right into 'Projects' to see a list of my past projects
+- ****IMPORTANT**** CLICKING ON THE RESUME TAB IN THE NAV BAR WILL DOWNLOAD A PDF OF MY RESUME
 
 
 #### Other things to note
