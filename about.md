@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/77692169/117131563-96ecab80-ad6f-11eb-845c-92ea18c1e333.jpg" alt="Profile Picture" width="300" height="500" />
 ---
 layout: page
 title: About
